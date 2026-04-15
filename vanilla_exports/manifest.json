@@ -1,0 +1,328 @@
+[
+  {
+    "slug": "1251_pokemon_version_diamant_france_rev_5",
+    "file": "1251_pokemon_version_diamant_france_rev_5.json",
+    "sourceFile": "1251 - Pokemon - Version Diamant (France) (Rev 5).nds",
+    "title": "POKEMON D",
+    "idCode": "ADAF",
+    "game": "diamond",
+    "family": "gen4",
+    "language": "fr",
+    "regions": [
+      "fr"
+    ],
+    "trainerCount": 849
+  },
+  {
+    "slug": "5586_pokemon_version_blanche_dsi_enhanced_f_eximius",
+    "file": "5586_pokemon_version_blanche_dsi_enhanced_f_eximius.json",
+    "sourceFile": "5586 - Pokemon - Version Blanche (DSi Enhanced) (F)(EXiMiUS).nds",
+    "title": "POKEMON W",
+    "idCode": "IRAF",
+    "game": "white",
+    "family": "gen5",
+    "language": "fr",
+    "regions": [
+      "fr"
+    ],
+    "trainerCount": 615
+  },
+  {
+    "slug": "5587_pokemon_version_noire_france_ndsi_enhanced",
+    "file": "5587_pokemon_version_noire_france_ndsi_enhanced.json",
+    "sourceFile": "5587 - Pokemon - Version Noire (France) (NDSi Enhanced).nds",
+    "title": "POKEMON B",
+    "idCode": "IRBF",
+    "game": "black",
+    "family": "gen5",
+    "language": "fr",
+    "regions": [
+      "fr"
+    ],
+    "trainerCount": 615
+  },
+  {
+    "slug": "pokemon_black_version_usa_europe_ndsi_enhanced",
+    "file": "pokemon_black_version_usa_europe_ndsi_enhanced.json",
+    "sourceFile": "Pokemon - Black Version (USA, Europe) (NDSi Enhanced).nds",
+    "title": "POKEMON B",
+    "idCode": "IRBO",
+    "game": "black",
+    "family": "gen5",
+    "language": "en",
+    "regions": [
+      "usa",
+      "eu"
+    ],
+    "trainerCount": 615
+  },
+  {
+    "slug": "pokemon_black_version_2_usa_europe_ndsi_enhanced",
+    "file": "pokemon_black_version_2_usa_europe_ndsi_enhanced.json",
+    "sourceFile": "Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced).nds",
+    "title": "POKEMON B2",
+    "idCode": "IREO",
+    "game": "black2",
+    "family": "gen5",
+    "language": "en",
+    "regions": [
+      "usa",
+      "eu"
+    ],
+    "trainerCount": 813
+  },
+  {
+    "slug": "pokemon_diamond_version_europe_rev_5",
+    "file": "pokemon_diamond_version_europe_rev_5.json",
+    "sourceFile": "Pokemon - Diamond Version (Europe) (Rev 5).nds",
+    "title": "POKEMON D",
+    "idCode": "ADAE",
+    "game": "diamond",
+    "family": "gen4",
+    "language": "en",
+    "regions": [
+      "eu"
+    ],
+    "trainerCount": 849
+  },
+  {
+    "slug": "pokemon_diamond_version_usa_rev_5",
+    "file": "pokemon_diamond_version_usa_rev_5.json",
+    "sourceFile": "Pokemon - Diamond Version (USA) (Rev 5).nds",
+    "title": "POKEMON D",
+    "idCode": "ADAE",
+    "game": "diamond",
+    "family": "gen4",
+    "language": "en",
+    "regions": [
+      "usa"
+    ],
+    "trainerCount": 849
+  },
+  {
+    "slug": "pokemon_heartgold_version_europe",
+    "file": "pokemon_heartgold_version_europe.json",
+    "sourceFile": "Pokemon - HeartGold Version (Europe).nds",
+    "title": "POKEMON HG",
+    "idCode": "IPKE",
+    "game": "heartgold",
+    "family": "gen4",
+    "language": "en",
+    "regions": [
+      "eu"
+    ],
+    "trainerCount": 737
+  },
+  {
+    "slug": "pokemon_heartgold_version_usa",
+    "file": "pokemon_heartgold_version_usa.json",
+    "sourceFile": "Pokemon - HeartGold Version (USA).nds",
+    "title": "POKEMON HG",
+    "idCode": "IPKE",
+    "game": "heartgold",
+    "family": "gen4",
+    "language": "en",
+    "regions": [
+      "usa"
+    ],
+    "trainerCount": 737
+  },
+  {
+    "slug": "pokemon_pearl_version_europe_rev_5",
+    "file": "pokemon_pearl_version_europe_rev_5.json",
+    "sourceFile": "Pokemon - Pearl Version (Europe) (Rev 5).nds",
+    "title": "POKEMON P",
+    "idCode": "APAE",
+    "game": "pearl",
+    "family": "gen4",
+    "language": "en",
+    "regions": [
+      "eu"
+    ],
+    "trainerCount": 849
+  },
+  {
+    "slug": "pokemon_pearl_version_usa_rev_5",
+    "file": "pokemon_pearl_version_usa_rev_5.json",
+    "sourceFile": "Pokemon - Pearl Version (USA) (Rev 5).nds",
+    "title": "POKEMON P",
+    "idCode": "APAE",
+    "game": "pearl",
+    "family": "gen4",
+    "language": "en",
+    "regions": [
+      "usa"
+    ],
+    "trainerCount": 849
+  },
+  {
+    "slug": "pokemon_platinum_version_europe",
+    "file": "pokemon_platinum_version_europe.json",
+    "sourceFile": "Pokemon - Platinum Version (Europe).nds",
+    "title": "POKEMON PL",
+    "idCode": "CPUE",
+    "game": "platinum",
+    "family": "gen4",
+    "language": "en",
+    "regions": [
+      "eu"
+    ],
+    "trainerCount": 927
+  },
+  {
+    "slug": "pokemon_platinum_version_usa",
+    "file": "pokemon_platinum_version_usa.json",
+    "sourceFile": "Pokemon - Platinum Version (USA).nds",
+    "title": "POKEMON PL",
+    "idCode": "CPUE",
+    "game": "platinum",
+    "family": "gen4",
+    "language": "en",
+    "regions": [
+      "usa"
+    ],
+    "trainerCount": 927
+  },
+  {
+    "slug": "pokemon_soulsilver_version_europe",
+    "file": "pokemon_soulsilver_version_europe.json",
+    "sourceFile": "Pokemon - SoulSilver Version (Europe).nds",
+    "title": "POKEMON SS",
+    "idCode": "IPGE",
+    "game": "soulsilver",
+    "family": "gen4",
+    "language": "en",
+    "regions": [
+      "eu"
+    ],
+    "trainerCount": 737
+  },
+  {
+    "slug": "pokemon_soulsilver_version_usa",
+    "file": "pokemon_soulsilver_version_usa.json",
+    "sourceFile": "Pokemon - SoulSilver Version (USA).nds",
+    "title": "POKEMON SS",
+    "idCode": "IPGE",
+    "game": "soulsilver",
+    "family": "gen4",
+    "language": "en",
+    "regions": [
+      "usa"
+    ],
+    "trainerCount": 737
+  },
+  {
+    "slug": "pokemon_version_argent_soulsilver_france",
+    "file": "pokemon_version_argent_soulsilver_france.json",
+    "sourceFile": "Pokemon - Version Argent SoulSilver (France).nds",
+    "title": "POKEMON SS",
+    "idCode": "IPGF",
+    "game": "soulsilver",
+    "family": "gen4",
+    "language": "fr",
+    "regions": [
+      "fr"
+    ],
+    "trainerCount": 737
+  },
+  {
+    "slug": "pokemon_version_blanche_2_france_ndsi_enhanced",
+    "file": "pokemon_version_blanche_2_france_ndsi_enhanced.json",
+    "sourceFile": "Pokemon - Version Blanche 2 (France) (NDSi Enhanced).nds",
+    "title": "POKEMON W2",
+    "idCode": "IRDF",
+    "game": "white2",
+    "family": "gen5",
+    "language": "fr",
+    "regions": [
+      "fr"
+    ],
+    "trainerCount": 813
+  },
+  {
+    "slug": "pokemon_version_noire_2_france_ndsi_enhanced",
+    "file": "pokemon_version_noire_2_france_ndsi_enhanced.json",
+    "sourceFile": "Pokemon - Version Noire 2 (France) (NDSi Enhanced).nds",
+    "title": "POKEMON B2",
+    "idCode": "IREF",
+    "game": "black2",
+    "family": "gen5",
+    "language": "fr",
+    "regions": [
+      "fr"
+    ],
+    "trainerCount": 813
+  },
+  {
+    "slug": "pokemon_version_or_heartgold_france",
+    "file": "pokemon_version_or_heartgold_france.json",
+    "sourceFile": "Pokemon - Version Or HeartGold (France).nds",
+    "title": "POKEMON HG",
+    "idCode": "IPKF",
+    "game": "heartgold",
+    "family": "gen4",
+    "language": "fr",
+    "regions": [
+      "fr"
+    ],
+    "trainerCount": 737
+  },
+  {
+    "slug": "pokemon_version_perle_france_rev_5",
+    "file": "pokemon_version_perle_france_rev_5.json",
+    "sourceFile": "Pokemon - Version Perle (France) (Rev 5).nds",
+    "title": "POKEMON P",
+    "idCode": "APAF",
+    "game": "pearl",
+    "family": "gen4",
+    "language": "fr",
+    "regions": [
+      "fr"
+    ],
+    "trainerCount": 849
+  },
+  {
+    "slug": "pokemon_version_platine_france",
+    "file": "pokemon_version_platine_france.json",
+    "sourceFile": "Pokemon - Version Platine (France).nds",
+    "title": "POKEMON PL",
+    "idCode": "CPUF",
+    "game": "platinum",
+    "family": "gen4",
+    "language": "fr",
+    "regions": [
+      "fr"
+    ],
+    "trainerCount": 927
+  },
+  {
+    "slug": "pokemon_white_version_usa_europe_ndsi_enhanced",
+    "file": "pokemon_white_version_usa_europe_ndsi_enhanced.json",
+    "sourceFile": "Pokemon - White Version (USA, Europe) (NDSi Enhanced).nds",
+    "title": "POKEMON W",
+    "idCode": "IRAO",
+    "game": "white",
+    "family": "gen5",
+    "language": "en",
+    "regions": [
+      "usa",
+      "eu"
+    ],
+    "trainerCount": 615
+  },
+  {
+    "slug": "pokemon_white_version_2_usa_europe_ndsi_enhanced",
+    "file": "pokemon_white_version_2_usa_europe_ndsi_enhanced.json",
+    "sourceFile": "Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced).nds",
+    "title": "POKEMON W2",
+    "idCode": "IRDO",
+    "game": "white2",
+    "family": "gen5",
+    "language": "en",
+    "regions": [
+      "usa",
+      "eu"
+    ],
+    "trainerCount": 813
+  }
+]
